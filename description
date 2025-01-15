@@ -1,0 +1,12 @@
+rpc
+hono
+mvc
+tailwindcss
+appwrite
+server components
+session middlewares on server
+Authentication with Honojs and appwrite
+protected routes for authorized users and admins using server actions
+loading and listing workspaces of users belongs to same org and access and other functionality on workspace.
+workspace invite system within organisation
+image uploads under File, base64 and string type in workspace, tasks creation and other places.
